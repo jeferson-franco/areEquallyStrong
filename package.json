@@ -1,0 +1,20 @@
+{
+  "name": "areequallystrong",
+  "version": "1.0.0",
+  "description": "Call two arms _equally strong_ if the heaviest weights they each are able to lift are equal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/areEquallyStrong.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/areEquallyStrong/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/areEquallyStrong#readme"
+}
